@@ -1,7 +1,7 @@
 # TelecomX_LATAM-PARTE-2
 
 
-Proyecto de Predicción de Cancelación de Clientes (Churn) para Telecom X
+Proyecto Telecom X
 Descripción del Proyecto
 Este proyecto se enfoca en analizar y predecir la cancelación de clientes (Churn) en una empresa de telecomunicaciones ficticia, "Telecom X". El objetivo principal es identificar a los clientes con mayor probabilidad de abandonar el servicio para que la empresa pueda implementar estrategias de retención efectivas. Se sigue un flujo de trabajo típico de ciencia de datos, que incluye la extracción, transformación y carga (ETL) de datos, análisis exploratorio de datos (EDA) y la construcción y evaluación de modelos de Machine Learning.
 
